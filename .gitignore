@@ -1,0 +1,10 @@
+# Full-size original photos; the site uses the web-sized copies in assets/img
+Media/
+
+# Local editor and preview settings
+.claude/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
